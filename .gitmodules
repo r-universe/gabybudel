@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DBHC"]
+	path = DBHC
+	url = https://github.com/gabybudel/dbhc
+	shallow = true
+	registered = true
